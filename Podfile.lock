@@ -1,0 +1,81 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - FDFullscreenPopGesture (1.1)
+  - FLAnimatedImage (1.0.12)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - IQKeyboardManager (6.2.0)
+  - Masonry (1.1.0)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SVProgressHUD (2.2.5)
+  - TZImagePickerController (3.1.9)
+  - YBImageBrowser (1.0.9):
+    - FLAnimatedImage (~> 1.0.12)
+    - SDWebImage (~> 4.3.3)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking
+  - FDFullscreenPopGesture (= 1.1)
+  - FMDB
+  - IQKeyboardManager
+  - Masonry
+  - SDWebImage
+  - SVProgressHUD (~> 2.2.5)
+  - TZImagePickerController
+  - YBImageBrowser (~> 1.0.9)
+  - YYCategories
+  - YYModel
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - FDFullscreenPopGesture
+    - FLAnimatedImage
+    - FMDB
+    - IQKeyboardManager
+    - Masonry
+    - SDWebImage
+    - SVProgressHUD
+    - TZImagePickerController
+    - YBImageBrowser
+    - YYCategories
+    - YYModel
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TZImagePickerController: c3f7c505d23281e21e98df6dbeae372946caa28f
+  YBImageBrowser: bad753e1bcb6332e8b899ac60973aee00b5f63fa
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 31db8bc675b39545ba638f923ad7f5316fbebfc6
+
+COCOAPODS: 1.8.4
